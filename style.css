@@ -8,6 +8,16 @@ body{
     width:50%
 }
 
+.image1: {
+    display: inline-block;
+    height: 500%;
+    width: 500%;
+    text-align: center;
+    margin-left: 00%;
+    margin-right: 00%
+}
+
+
 h1{
     background-color: aquamarine;
     text-align: center ;
