@@ -5,17 +5,30 @@ body{
 }
 
 #Dog.png{
-    width:50%
+    width:20%
 }
 
-.image1: {
+
+.iten {
+    text-align:left;
+    font-size: 25px;
+    color: #0c0c0cea;
     display: inline-block;
-    height: 500%;
-    width: 500%;
-    text-align: center;
-    margin-left: 00%;
-    margin-right: 00%
+    width: 43%;
+    height:43%;
+    margin-left: 02%;
+    margin-right: 03%;
 }
+
+.imagem {
+    display: inline-block;
+    width: 20%;
+    height:20%;
+    text-align:right;
+    margin-left: 00%;
+    margin-right: 05%;
+}
+
 
 
 h1{
