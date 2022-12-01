@@ -1,19 +1,22 @@
 body{
-    text-align:center ;
-    background-size: ;
+    text-align:center;
+    background-size:rgb(74, 226, 208) ;
     color: rgb(158, 143, 212);
+}
+
+#Dog.png{
+    width:50%
 }
 
 h1{
     background-color: aquamarine;
     text-align: center ;
-    font-size:200;
-    front-weight:background-color
+    font: size 300px;;
     color:rgb(238,202,43)
 }
 
 h2{
-    background-color: aquamarine
-     color: 
-
+    background-color: rgb(237, 203, 240)
 }
+
+
