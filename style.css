@@ -4,30 +4,36 @@ body{
     color: rgb(158, 143, 212);
 }
 
+
 #Dog.png{
-    width:20%
+    width: 10%;
 }
+
+
+.imagem {
+    display: inline-block;
+    width:10%;
+    height:10%;
+    text-align:right;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
 
 
 .iten {
     text-align:left;
-    font-size: 25px;
+    font-size: 20px;
     color: #0c0c0cea;
     display: inline-block;
-    width: 43%;
-    height:43%;
+    width: 20%;
+    height:20%;
     margin-left: 02%;
     margin-right: 03%;
 }
 
-.imagem {
-    display: inline-block;
-    width: 20%;
-    height:20%;
-    text-align:right;
-    margin-left: 00%;
-    margin-right: 05%;
-}
 
 
 
@@ -43,3 +49,6 @@ h2{
 }
 
 
+h3{
+    background-color: rgb(190, 216, 240) 
+}
